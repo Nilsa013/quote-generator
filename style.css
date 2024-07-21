@@ -24,7 +24,7 @@ body{
     box-shadow: 6px 5px 10px 10px rgb(214, 211, 207);
     border-radius: 20px;
 }
-.quote{
+#quote{
     margin: 0;
     padding: 0;
 }
@@ -40,9 +40,12 @@ span{
     font-size: 40px;
     font-weight: bold;
 }
-.quote{
+#quote{
     padding: 30px;
     margin: 30px;
+    font-size: 80px;
+    font-weight: 50px;
+    font-style: italic;
 }
 h3{
     font-style: italic;
